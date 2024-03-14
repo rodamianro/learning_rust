@@ -1,2 +1,2 @@
-# learning_rust
+# Learning Rust
 Project to practice RUST skills
